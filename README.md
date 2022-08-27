@@ -51,3 +51,11 @@ And if change the data in a block all blocks after that block will be invalid (W
 
 You will have to remine all the successive blocks after change.
 
+## 51% Attacks
+
+https://dci.mit.edu/51-attacks
+
+
+### PoW 51% Attack Cost
+https://www.crypto51.app/
+
