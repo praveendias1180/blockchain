@@ -72,3 +72,18 @@ Your private key is your identity. You sign the transaction (amount, your public
 See below, it all starts with a coinbase. See how transactions are recorded and mined on the distributed blockchain.
 
 ![](defi.png)
+
+# Trust
+
+Trust: Fundemental currency of commerce.
+
+In a distributed blockchain peers trust each other based on the hash of the last block.
+
+Blockchain: Massively Simplified | Richie Etwaru | TEDxMorristown https://www.youtube.com/watch?v=xIDL_akeras
+
+Problem: Old ledgers are tamper-able.
+
+Solution: Distributed Immutable Ledger (Blockchain)
+
+![](trust.png)
+
