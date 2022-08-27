@@ -39,3 +39,15 @@ NO! don't do it manually. Click the 'Mine' button.
 
 ![](mined.png)
 
+# Blockchain
+
+We can chain the above described blocks to create a blockchain.
+
+![](blockchain.png)
+
+And if change the data in a block all blocks after that block will be invalid (Will not start the hash with '0000')
+
+![](broken.png)
+
+You will have to remine all the successive blocks after change.
+
