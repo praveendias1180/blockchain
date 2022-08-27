@@ -65,3 +65,10 @@ What happens when many peers have a (distributed) copy of the blockchain. Can yo
 
 Yes, you can. But your copy will be rejected (as modified) by the peers. They will check the hash of the last block and know that you have done modification to the blockchain (data). You will lose the trust. You will be discarded.
 
+# Financial Transactions on Distributed Blockchain (with PKI)
+
+Your private key is your identity. You sign the transaction (amount, your public key, recepient public key) with your private key. Send the details to the distributed blockchain. Peers verify that the transaction is done by you (PKI) with your private key. Now it is on the distributed blockchain. Everyone knows it. You cannot say no later. Nor you can change what is recorded in the distributed blockchain (See 51% attack).
+
+See below, it all starts with a coinbase. See how transactions are recorded and mined on the distributed blockchain.
+
+![](defi.png)
