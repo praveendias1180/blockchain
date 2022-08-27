@@ -24,3 +24,18 @@ https://emn178.github.io/online-tools/sha256.html
 SHA-2 (Secure Hash Algorithm 2) is a set of cryptographic hash functions designed by the United States National Security Agency (NSA) and first published in 2001.[3][4] They are built using the Merkle–Damgård construction, from a one-way compression function itself built using the Davies–Meyer structure from a specialized block cipher.
 
 https://en.wikipedia.org/wiki/SHA-2
+
+# Blocks
+
+## Original Block
+
+![](original.png)
+
+Now let's enter 'Data'. Data = 'hi'. Immediately the Hash will be changed. And try to find a Nonce such that Hash starts with '0000' again. Put 1 in the Nonce. Then 2, 3, 4, etc.
+
+NO! don't do it manually. Click the 'Mine' button.
+
+## Mined!
+
+![](mined.png)
+
