@@ -94,4 +94,8 @@ ETH: 0xc9EC3F012353bff6C0F7dAcc5f8D7F50611De846
 See it live: https://etherscan.io/address/0xc9ec3f012353bff6c0f7dacc5f8d7f50611de846
 
 
+# Blockchain and Metaverse
 
+Is a Virtual Reality Metaverse based on blockchain and a decentralized economy our future? Will virtual marketplaces filled with NFTs act as an equitable replacement for our existing infrastructure, giving access to billions of people that would otherwise lack access to financial resources and ways to earn a living?  
+
+The future of an immersive Metaverse | Artur Sychov | TEDxUNYP: https://www.youtube.com/watch?v=odbqlASYv9E
