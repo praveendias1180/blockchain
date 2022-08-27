@@ -17,6 +17,8 @@ a95a2ca6166bcb55a969401a63e960ada7295a27183500b321ac3f7c4cc6e681
 
 https://emn178.github.io/online-tools/sha256.html
 
+![](sha-meter.png)
+
 # SHA-2
 
 SHA-2 (Secure Hash Algorithm 2) is a set of cryptographic hash functions designed by the United States National Security Agency (NSA) and first published in 2001.[3][4] They are built using the Merkle–Damgård construction, from a one-way compression function itself built using the Davies–Meyer structure from a specialized block cipher.
