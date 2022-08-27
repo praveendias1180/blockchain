@@ -59,3 +59,9 @@ https://dci.mit.edu/51-attacks
 ### PoW 51% Attack Cost
 https://www.crypto51.app/
 
+# Distributed Blockchain
+
+What happens when many peers have a (distributed) copy of the blockchain. Can you change the block data?
+
+Yes, you can. But your copy will be rejected (as modified) by the peers. They will check the hash of the last block and know that you have done modification to the blockchain (data). You will lose the trust. You will be discarded.
+
